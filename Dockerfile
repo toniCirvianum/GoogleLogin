@@ -8,6 +8,6 @@ RUN apt-get update && apt-get install -y \
     unzip \
     && curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
 #RUN composer require phpmailer/phpmailer
-RUN compser require google/apiclient
+RUN composer require google/apiclient
 #apache
 RUN a2enmod rewrite
