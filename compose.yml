@@ -1,0 +1,9 @@
+services:
+ php:
+  build: .
+  volumes:
+    - ./:/var/www/html
+  expose:
+    - 80
+  ports:
+    - 80:80
