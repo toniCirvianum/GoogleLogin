@@ -1,0 +1,4 @@
+Errors al descarregar google/apiclient
+Baixa la carpeta vendor des del següent enllaç
+
+https://drive.google.com/file/d/1CcW4kMscQ1P1vXcRWFM-SDu-JB6vL8xm/view?usp=sharing
